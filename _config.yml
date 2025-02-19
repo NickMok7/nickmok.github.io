@@ -28,7 +28,6 @@ github_username:  nickmok
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes"
-theme: "minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
